@@ -5,6 +5,15 @@
 </p>
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
+###
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhagash1206&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+### 
+
 
 ## 🌐 Socials
 
