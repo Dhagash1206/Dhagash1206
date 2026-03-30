@@ -13,6 +13,24 @@
 </div>
 
 ### 
+<!-- Coding Analytics Section (Enhanced Dashboard) -->
+<h2 align="center">📊 Coding Platform</h2>
+
+<div align="center">
+<table align="center" width="100%" style="border: none;">
+  
+  <tr>
+    <td width="100%" align="center" style="border: none;">
+       <!-- LeetCode - Radical Theme -->
+        <img src="https://leetcard.jacoblin.cool/dhagash1206?theme=radical&font=Fira%20Code&ext=heatmap" height="270" alt="LeetCode Stats" />
+       </a>
+       <a href="https://leetcode.com/dhagash1206" target="_blank">
+        <div align="center">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60"/>
+  </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials
