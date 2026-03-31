@@ -22,28 +22,17 @@
   <tr>
     <td width="100%" align="center" style="border: none;">
        <!-- LeetCode - Radical Theme -->
+      <a href="https://leetcode.com/dhagash1206" target="_blank">
         <img src="https://leetcard.jacoblin.cool/dhagash1206?theme=radical&font=Fira%20Code&ext=heatmap" height="270" alt="LeetCode Stats" />
        </a>
        <a href="https://leetcode.com/dhagash1206" target="_blank">
         <div align="center">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60"/>
+          <a href="https://leetcode.com/dhagash1206" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="60" width="70"/>
   </a>
     </td>
   </tr>
 </table>
-
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://leetcode.com/dhagash1206" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
-  </a>
-
-  <a href="mailto:dhagashpandya2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 
 
