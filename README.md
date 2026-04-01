@@ -9,7 +9,7 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhagash1206&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
 </div>
 
 ### 
