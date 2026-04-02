@@ -1,15 +1,19 @@
 <!-- Header GIF -->
+<h2 align="center">
+  💻 Developer | 🚀 Learning Backend & LLM
+</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="65%"/>
+
 </p>
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
 ###
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" width="340"/>
+<img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true" height="150" alt="commit log"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=True&layout=compact&langs_count=3&card_width=320" width="340"/>
 </div>
 
 ### 
