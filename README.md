@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="75%"/>
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="50%"/>
 
 </p>
 
@@ -21,6 +21,44 @@
 
 
 </p>
+
+# Projects
+
+---
+
+
+### [Django Task Manager](https://github.com/Dhagash1206/Django-taskmanager)
+> Full-featured Django web app combining a todo list and rich text notes manager. Backed by PostgreSQL in production.
+
+`Python` `Django` `PostgreSQL` `Firebase`
+
+- **Auth** — Session login with GitHub sign-in via Firebase
+- **Tasks** — Add, complete, and delete todos
+- **Notes** — Create and auto-save rich text notes
+- **Dashboard** — Protected personal command center
+
+---
+
+### [CNN Deep Digit Scanner](https://github.com/Dhagash1206/CNN-Deep-digit-scanner)
+> Deep learning app that recognizes handwritten digits using a CNN trained on MNIST with 99%+ accuracy. Features a Gradio UI for live drawing and instant prediction.
+
+`Python` `TensorFlow` `CNN` `Gradio` `MNIST`
+
+- **Model** — Multi-layer CNN with Batch Normalization and Dropout
+- **Training** — Auto-downloads MNIST dataset
+- **Accuracy** — 99%+ digit recognition on test data
+
+---
+
+### [College ERP System](https://github.com/Dhagash1206/College-ERP-system)
+> Django-based college management system streamlining student-teacher operations. Handles attendance, marks, and timetables with role-based access.
+
+`Python` `Django` `HTML` `CSS`
+
+- **Auth** — Shared session login for students and teachers
+- **Academics** — Manage attendance, marks, and timetables
+- **Roles** — Separate dashboards for student, teacher, and admin
+---
 
 
 <br>
