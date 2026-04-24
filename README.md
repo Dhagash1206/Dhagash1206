@@ -59,12 +59,26 @@
 - **Academics** — Manage attendance, marks, and timetables
 - **Roles** — Separate dashboards for student, teacher, and admin
 ---
+<br>
+<br>
+<br>
 
+
+<!-- Coding Analytics Section (Enhanced Dashboard) -->
+
+<div align="center">
+
+
+# 📊 Coding Platform
+
+<a href="https://leetcode.com/dhagash1206" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/dhagash1206?theme=radical&font=Fira%20Code&ext=heatmap" height="480" alt="LeetCode Stats" />
+</a>
 
 <br>
 <br>
+<br>
 
-<p align="center">
 
 # 📊 Github stats:
 <div align="center">
@@ -76,30 +90,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="70%"/>
 </div>
 
 <br>
 <br>
 <br>
 
-<!-- Coding Analytics Section (Enhanced Dashboard) -->
-# 📊 Coding Platform
-
-<div align="center">
-<table align="center" width="100%" style="border: none;">
-  
-  <tr>
-    <td width="100%" align="center" style="border: none;">
-       <!-- LeetCode - Radical Theme -->
-      <a href="https://leetcode.com/dhagash1206" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/dhagash1206?theme=radical&font=Fira%20Code&ext=heatmap" height="270" alt="LeetCode Stats" />
-       </a>
-       <a href="https://leetcode.com/dhagash1206" target="_blank">
-        <div align="center">
-          <a href="https://leetcode.com/dhagash1206" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="60" width="70"/>
-  </a>
-    </td>
-  </tr>
-</table>
