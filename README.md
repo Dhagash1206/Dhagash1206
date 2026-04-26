@@ -1,13 +1,21 @@
 <!-- Header GIF -->
-<h1 align="center">
-  💻 Developer | 🚀 Learning Backend & LLM
-</h1>
+# Hi, I'm Dhagash 👋
 
+- Currently learning Backend Development and AI/ML
+- Pursuing B.Tech in Artificial Intelligence at the National Institute of Technology, Surat.
+- Passionate about building scalable, reliable backend systems and writing clean, efficient code.
+
+- Actively diving into the world of artificial intelligence — from deep learning
+fundamentals to large language models. Always learning, always building.
+- Let's build something intelligent 🚀
+<br>
 <br>
 
 <p align="center">
+  <br>
+  <br>
   <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="50%"/>
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="70%"/>
 
 </p>
 
@@ -55,8 +63,6 @@
 ---
 <br>
 <br>
-<br>
-
 
 <!-- Coding Analytics Section (Enhanced Dashboard) -->
 
@@ -71,6 +77,9 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) |
 | **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
 |**Cloud & Tools** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+
+<br>
+<br>
 
 
 # 📊 Coding Platform
@@ -87,17 +96,25 @@
 # 📊 Github stats:
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true" height="150" alt="commit log"  />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=True&layout=compact&langs_count=3&card_width=320" width="340"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=True&layout=compact&langs_count=3&card_width=320" width="360"/>
 </div>
 
 </p>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="70%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="65%"/>
+  
 </div>
 
 <br>
 <br>
+
+# 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhagash1206)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dhagash1206)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhagashpandya2@gmail.com)
+
 <br>
 
