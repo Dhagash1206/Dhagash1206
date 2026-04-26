@@ -9,7 +9,7 @@
 fundamentals to large language models. Always learning, always building.
 - Let's build something intelligent 🚀
 <br>
-<br>
+
 
 <p align="center">
   <br>
@@ -24,7 +24,11 @@ fundamentals to large language models. Always learning, always building.
 
 </p>
 
-# Projects
+<div align="center">
+  
+# Projects 🗂️
+
+</div>
 
 ---
 
@@ -61,6 +65,7 @@ fundamentals to large language models. Always learning, always building.
 - **Academics** — Manage attendance, marks, and timetables
 - **Roles** — Separate dashboards for student, teacher, and admin
 ---
+
 <br>
 <br>
 
