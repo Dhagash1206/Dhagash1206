@@ -2,7 +2,7 @@
 # Hi, I'm Dhagash 👋
 
 - Currently learning Backend Development and AI/ML
-- Pursuing B.Tech in Artificial Intelligence at the National Institute of Technology, Surat.
+- Pursuing B.Tech in Artificial Intelligence at National Institute of Technology, Surat.
 - Passionate about building scalable, reliable backend systems and writing clean, efficient code.
 
 - Actively diving into the world of artificial intelligence — from deep learning
@@ -23,25 +23,12 @@ fundamentals to large language models. Always learning, always building.
 <br>
 
 </p>
-
+<br>
 <div align="center">
-  
+
 # Projects 🗂️
 
 </div>
-
----
-
-
-### [Django Task Manager](https://github.com/Dhagash1206/Django-taskmanager)
-> Full-featured Django web app combining a todo list and rich text notes manager. Backed by PostgreSQL in production.
-
-`Python` `Django` `PostgreSQL` `Firebase`
-
-- **Auth** — Session login with GitHub sign-in via Firebase
-- **Tasks** — Add, complete, and delete todos
-- **Notes** — Create and auto-save rich text notes
-- **Dashboard** — Protected personal command center
 
 ---
 
@@ -53,6 +40,18 @@ fundamentals to large language models. Always learning, always building.
 - **Model** — Multi-layer CNN with Batch Normalization and Dropout
 - **Training** — Auto-downloads MNIST dataset
 - **Accuracy** — 99%+ digit recognition on test data
+
+---
+
+### [Django Task Manager](https://github.com/Dhagash1206/Django-taskmanager)
+> Full-featured Django web app combining a todo list and rich text notes manager. Backed by PostgreSQL in production.
+
+`Python` `Django` `PostgreSQL` `Firebase`
+
+- **Auth** — Session login with GitHub sign-in via Firebase
+- **Dashboard** — Protected personal command center
+- **Tasks** — Add, complete, and delete todos
+- **Notes** — Create and auto-save rich text notes
 
 ---
 
