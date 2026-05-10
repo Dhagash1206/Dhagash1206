@@ -1,12 +1,14 @@
 <!-- Header GIF -->
 # Hi, I'm Dhagash 👋
-
-- Currently learning Backend Development and AI/ML
 - Pursuing B.Tech in Artificial Intelligence at National Institute of Technology, Surat.
+
+- Actively learning Backend Logic Systems
+  
 - Passionate about building scalable, reliable backend systems and writing clean, efficient code.
 
-- Actively diving into the world of artificial intelligence — from deep learning
+- Diving into the world of artificial intelligence — from deep learning
 fundamentals to large language models. Always learning, always building.
+
 - Let's build something intelligent 🚀
 <br>
 
