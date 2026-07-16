@@ -96,7 +96,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true&card_width=495" height="150" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Dhagash1206&theme=tokyonight&hide_border=true&card_width=495&cb=20260717" height="190" alt="GitHub Streak" />
+
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhagash1206&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=True&layout=compact&langs_count=3&card_width=320" width="360"/>
 
 </div>
@@ -104,7 +106,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="65%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhagash1206&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="50%"/>
 </div>
 
 <br>
