@@ -29,26 +29,27 @@
 
 ---
 
+### [Backend-Logic-Systems](https://github.com/Dhagash1206/Backend-Logic-Systems)
+> Implementing Production level Real-World Backend Systems
+
+- **Load-Balancing-Server**
+- **Rate Limiting Module**
+- **JWT-Authentication**
+
+`Python` `JavaScript` 
+
+
+
+---
+
 ### [CNN Deep Digit Scanner](https://github.com/Dhagash1206/CNN-Deep-digit-scanner)
 > Deep learning app that recognizes handwritten digits using a CNN trained on MNIST with 99%+ accuracy. Features a Gradio UI for live drawing and instant prediction.
 
-`Python` `TensorFlow` `CNN` `Gradio` `MNIST`
+`Python` `TensorFlow` `CNN` `MNIST`
 
 - **Model** — Multi-layer CNN with Batch Normalization and Dropout
 - **Training** — Auto-downloads MNIST dataset
 - **Accuracy** — 99%+ digit recognition on test data
-
----
-
-### [Django Task Manager](https://github.com/Dhagash1206/Django-taskmanager)
-> Full-featured Django web app combining a todo list and rich text notes manager. Backed by PostgreSQL in production.
-
-`Python` `Django` `PostgreSQL` `Firebase`
-
-- **Auth** — Session login with GitHub sign-in via Firebase
-- **Dashboard** — Protected personal command center
-- **Tasks** — Add, complete, and delete todos
-- **Notes** — Create and auto-save rich text notes
 
 ---
 
