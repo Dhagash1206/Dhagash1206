@@ -70,7 +70,7 @@
 <!-- Coding Analytics Section (Enhanced Dashboard) -->
 <div align="center">
 
-### Core Courses
+# 📘 Core Courses
 
 | Category | Topics |
 |:---|:---|
