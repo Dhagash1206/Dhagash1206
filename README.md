@@ -70,6 +70,17 @@
 <!-- Coding Analytics Section (Enhanced Dashboard) -->
 <div align="center">
 
+### Core Courses
+
+| Category | Topics |
+|:---|:---|
+| **Core CS** | ![](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B8BBE) ![](https://img.shields.io/badge/-Operating%20Systems-4B8BBE) ![](https://img.shields.io/badge/-Computer%20Networks-4B8BBE) ![](https://img.shields.io/badge/-Computer%20Architecture-4B8BBE) |
+| **Data** | ![](https://img.shields.io/badge/-Database%20Management%20Systems-2E8B57) ![](https://img.shields.io/badge/-Data%20Science-2E8B57) |
+| **AI/ML** | ![](https://img.shields.io/badge/-Machine%20Learning-CC6600) ![](https://img.shields.io/badge/-Deep%20Learning-CC6600) ![](https://img.shields.io/badge/-Natural%20Language%20Processing-CC6600) ![](https://img.shields.io/badge/-Convolutional%20Neural%20Networks-CC6600) ![](https://img.shields.io/badge/-Artificial%20Neural%20Networks-CC6600) |
+
+<br>
+<br>
+
 # 💻 Tech Stack:
 
 | Category | Technologies |
