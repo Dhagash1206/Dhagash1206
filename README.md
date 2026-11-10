@@ -29,6 +29,18 @@
 
 ---
 
+
+### [Hardware-Aware Energy-Efficient LLM Inference](https://github.com/Dhagash1206/Energy-Efficiency-DL-Model)
+> Research codebase studying energy-aware adaptive self-speculative decoding on consumer GPUs with LayerSkip Llama 3.2 1B. In one RTX 3050 run, it measured 35.3% lower GPU energy and 42.3% lower latency per token, with exact greedy output.
+
+`Python` `PyTorch` `Transformers` `CUDA` `NVML`
+
+- **Decoding** — Early layers draft tokens, remaining layers verify them
+- **Adaptive Control** — Selects exit depth and draft length per request from measured cost
+- **Benchmarking** — Compares seven policies on GSM8K and HumanEval, checking all 381 requests against greedy output
+---
+
+
 ### [Backend-Logic-Systems](https://github.com/Dhagash1206/Backend-Logic-Systems)
 > Implementing Production level Real-World Backend Systems
 
@@ -50,17 +62,6 @@
 - **Model** — Multi-layer CNN with Batch Normalization and Dropout
 - **Training** — Auto-downloads MNIST dataset
 - **Accuracy** — 99%+ digit recognition on test data
-
----
-
-### [College ERP System](https://github.com/Dhagash1206/College-ERP-system)
-> Django-based college management system streamlining student-teacher operations. Handles attendance, marks, and timetables with role-based access.
-
-`Python` `Django` `HTML` `CSS`
-
-- **Auth** — Shared session login for students and teachers
-- **Academics** — Manage attendance, marks, and timetables
-- **Roles** — Separate dashboards for student, teacher, and admin
 
 ---
 
