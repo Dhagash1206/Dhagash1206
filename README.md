@@ -31,7 +31,7 @@
 
 
 ### [Hardware-Aware Energy-Efficient LLM Inference](https://github.com/Dhagash1206/Energy-Efficiency-DL-Model)
-> Research codebase studying energy-aware adaptive self-speculative decoding on consumer GPUs with LayerSkip Llama 3.2 1B. In one RTX 3050 run, it measured 35.3% lower GPU energy and 42.3% lower latency per token, with exact greedy output.
+> Research codebase studying energy-aware adaptive self-speculative decoding on consumer GPUs with LayerSkip Llama 3.2 1B. Measured Results : 35.3% lower GPU energy and 42.3% lower latency per token, with exact greedy output.
 
 `Python` `PyTorch` `Transformers` `CUDA` `NVML`
 
